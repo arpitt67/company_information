@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 import Navbar from './Navbar';
 import Home from './Home';
-import About from './pages/about';
+import About from './pages/About';
 import Userloginpage from './pages/Userloginpage';
 import Adminloginpage from './pages/Adminloginpage';
 import RegisterUserpage from './pages/RegisterUserpage';
